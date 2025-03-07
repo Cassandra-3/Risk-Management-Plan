@@ -77,6 +77,4 @@ DHAEI’s risk management approach follows a **continuous improvement cycle**:
 - **Vendor risk management is crucial**—third parties should meet **DHAEI's security standards**.  
 - **A well-structured incident response plan** ensures rapid containment and mitigation of cyber threats.  
 
-## Supporting Files  
-**Risk Assessment Reports, Policy Documents, and Security Implementation Plans** are included in this repository (sanitized).  
 
